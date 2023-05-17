@@ -70,9 +70,7 @@ Below are the libraries which we have used to write the test suites.
 
 [Unit Test](https://docs.python.org/3/library/unittest.html)
 
-[Magicmonk](https://docs.python.org/3/library/unittest.mock.html)
-
-
+[Network] (https://docs.python.org/3/library/internet.html)
 
 ## Use cases
 * Used to test the existing encryption/decryption code provided by @Sign
