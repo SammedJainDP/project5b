@@ -80,7 +80,7 @@ Below are the libraries which we have used to write the test suites.
 
 
 ## Collaborators
-Chandramouli Visweswa
+Chandra Mouli Visweswararao
 
 Hemanth Sai
 
